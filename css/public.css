@@ -19,3 +19,6 @@ img
 	border: 0; /* 因为默认有边框 */
 	display: block;
 }
+a{
+	color: #333;
+}
