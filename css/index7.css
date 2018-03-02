@@ -157,7 +157,8 @@ header
 	height: 70px;
 	background-color: #2b6c8c;
 	top: 293px;
-	left: 75px;
+	left: 0;
+	right: 0;
 	margin: auto;
 	z-index: 5;
 }
